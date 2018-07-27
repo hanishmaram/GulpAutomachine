@@ -1,0 +1,21 @@
+{
+  "name": "gulp-automachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject": "^4.3.2",
+    "gulp-uglify": "^3.0.1",
+    "rimraf": "^2.6.2",
+    "run-sequence": "^2.2.1"
+  }
+}
